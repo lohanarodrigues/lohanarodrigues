@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil GitHub sou Lohana Rodrigues!
 Conseguir uma vaga na área de dados e transformar a minha realidade e das pessoas ao meu redor através da programação.
 Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e construir algo incrível juntos!
 
-[LinkedIn:] (https://www.linkedin.com/in/lohana-rodrigues-a0225a240/)
+[LinkedIn] (https://www.linkedin.com/in/lohana-rodrigues-a0225a240/)
 
 Feito com ❤️ por Lohana Rodrigues
 
