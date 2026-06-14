@@ -28,7 +28,8 @@ Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e 
 
 [LinkedIn] (https://www.linkedin.com/in/lohana-rodrigues-lohana/)
 
-Feito com ❤️ por Lohana Rodrigues
+ 
+Lohana Rodrigues
 
 
 
