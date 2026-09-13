@@ -1,15 +1,19 @@
+
 # Olá! Eu sou a Lohana Rodrigues 👋
 
-Bem-vindo ao meu perfil GitHub sou Lohana Rodrigues!
+🎓 Estudante de Ciência e Tecnologia na UFBA e de Cibersegurança no Mulher Digital.
 
-### Sobre mim (:
+🔐 Cibersegurança | Segurança da Informação | Redes
 
-**Formação:** Sou graduanda em Ciência e Tecnologia, estudante de Análise de Dados com Python na iniciativa Reprograma e formada em Técnico em Agropecuária.
+Tenho experiência em Segurança da Informação e Suporte de Informática, além de conhecimentos em Python, SQL e Redes de Computadores.
 
+🛠️ Conhecimentos
 
-[LinkedIn] (https://www.linkedin.com/in/lohana-rodrigues-lohana/)
+Python • SQL • Redes de Computadores • Linux • Segurança da Informação • Suporte Técnico • Git/GitHub
 
+🌐 Conecte-se comigo
 
+# LinkedIn [https://www.linkedin.com/in/lohana-rodrigues-lohana/]
 
 
 
