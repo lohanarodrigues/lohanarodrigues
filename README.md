@@ -13,7 +13,7 @@ Python • SQL • Redes de Computadores • Linux • Segurança da Informaçã
 
 🌐 Conecte-se comigo
 
-# LinkedIn [https://www.linkedin.com/in/lohana-rodrigues-lohana/]
+## LinkedIn [https://www.linkedin.com/in/lohana-rodrigues-lohana/]
 
 
 
